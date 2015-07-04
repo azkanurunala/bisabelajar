@@ -475,27 +475,34 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
-.yellow-bg{
-    background-color:#FAA61E;
-}
 
-.no-padding{
-    padding:0px;
-}
 
-.padding-narrow{
-    padding:20px;
-}
+@media(min-width:768px) {
 
-.no-padding-top{
-    padding-top: 0px;
-}
+    .yellow-bg{
+        background-color:#FAA61E;
+    }
 
-.white-text{
-    color:white;
-}
+    .no-padding{
+        padding:0px;
+    }
 
-.rocket-bg{
-    background-image: url('../img/background/rocket.png');
-    background-repeat: no-repeat;
+    .padding-narrow{
+        padding:20px;
+    }
+
+    .no-padding-top{
+        padding-top: 0px;
+    }
+
+    .white-text{
+        color:white;
+    }
+
+    .rocket-bg{
+        background-image: url('../img/background/rocket.png');
+        background-repeat: no-repeat;
+    }
+
+
 }

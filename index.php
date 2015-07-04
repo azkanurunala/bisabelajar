@@ -108,8 +108,8 @@
 
     <section id="services" class="no-padding">
        
-        <div class="white-text">
-            <div class="no-padding row">
+        <div class="container-fluid white-text">
+            <div class="row no-padding ">
                 <div class="yellow-bg col-lg-3 col-md-6 text-center">
                     <div class="rocket-bg no-padding-top padding-narrow yellow-bg service-box">
                         
