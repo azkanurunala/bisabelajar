@@ -514,5 +514,12 @@ body {
         margin:20px;
     }
 
+    .bottom-border{
+        border-width:10px;
+        border-color: blue;
+        border-style: block;
+        border-bottom-width: 10px; 
+    }
+
 
 }
