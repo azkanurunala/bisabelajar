@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>BisaBelajar | Teman Belajar Terbaikmu!</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -108,13 +108,13 @@
 
     <section id="services" class="no-padding">
        
-        <div class="">
-            <div class="yellow-bg row">
+        <div class="white-text">
+            <div class="no-padding row">
                 <div class="yellow-bg col-lg-3 col-md-6 text-center">
-                    <div class="yellow-bg service-box">
+                    <div class="rocket-bg no-padding-top padding-narrow yellow-bg service-box">
                         
-                        <h3>Sturdy Templates</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                        <h3>Kelas Terbaru</h3>
+                        <img src="img/new.png"/>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">

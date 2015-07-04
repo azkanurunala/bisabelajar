@@ -482,3 +482,20 @@ body {
 .no-padding{
     padding:0px;
 }
+
+.padding-narrow{
+    padding:20px;
+}
+
+.no-padding-top{
+    padding-top: 0px;
+}
+
+.white-text{
+    color:white;
+}
+
+.rocket-bg{
+    background-image: url('../img/background/rocket.png');
+    background-repeat: no-repeat;
+}
