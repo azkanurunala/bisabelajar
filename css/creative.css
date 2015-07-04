@@ -504,5 +504,9 @@ body {
         background-repeat: no-repeat;
     }
 
+    img.icon{
+        margin:20px;
+    }
+
 
 }
