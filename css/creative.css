@@ -472,7 +472,13 @@ img::-moz-selection {
 }
 
 body {
+    font-family: 'Aller Light';
     webkit-tap-highlight-color: #222;
+}
+
+@font-face { 
+    font-family: Aller Light; 
+    src: url('fonts/Aller_Lt.ttf'); 
 }
 
 
