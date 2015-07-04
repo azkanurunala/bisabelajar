@@ -515,10 +515,8 @@ body {
     }
 
     .bottom-border{
-        border-width:10px;
-        border-color: blue;
-        border-style: block;
-        border-bottom-width: 10px; 
+        background-color: #ecf0f1;
+        border-bottom: 1pt solid #bdc3c7;
     }
 
 

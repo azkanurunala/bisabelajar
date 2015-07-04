@@ -99,7 +99,6 @@
                 BisaBelajar adalah teman belajar terbaikmu!
 
                 </p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
                 <a href="#about" class="yellow-bg btn btn-primary btn-xl page-scroll">Mulai Belajar</a>
             </div>
         </div>
@@ -109,11 +108,9 @@
 
     <section id="services" class="no-padding">
        
-        <div class="container-fluid white-text">
-            <div class="row no-padding ">
         <div class="bottom-border container-fluid white-text">
             <div class="row  no-padding ">
-                <div class="yellow-bg col-lg-3 col-md-6 text-center">
+                <div class="yellow-bg col-lg-2 col-md-4 text-center">
                     <div class="rocket-bg no-padding-top padding-narrow yellow-bg service-box">
                         
                         <h3>Kelas Terbaru</h3>
@@ -122,7 +119,6 @@
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
                         <a href="#"><img src=""></a>
                         <h3>Ready to Ship</h3>
                         <p class="text-muted">You can use this theme as is, or you can make changes!</p>
