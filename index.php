@@ -57,29 +57,30 @@
                         <a class="page-scroll" href="#">Kelas</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#">Services</a>
+                        <a class="page-scroll" href="#">Tryout</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="#">Info</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#">Tentang</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#">Hubungi Kami</a>
                     </li>
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
+                        <a class="page-scroll" href="#">Cari Kelas</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Services</a>
+                        <a class="page-scroll" href="#">Login</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="#portfolio">Daftar</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
+                  
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -90,9 +91,14 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1>Your Favorite Source of Free Bootstrap Themes</h1>
+                <img src="img/logo.png"/>
                 <hr>
-                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
+                <p>
+                BisaBelajar adalah tempat di mana kamu BisaBelajar apapun yang kamu mau.<br>
+                Dengan sumber materi yang melimpah, kamu BisaBelajar secara cuma-cuma. <br>
+                BisaBelajar adalah teman belajar terbaikmu!
+
+                </p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
