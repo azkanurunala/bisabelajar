@@ -474,3 +474,11 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.yellow-bg{
+    background-color:#FAA61E;
+}
+
+.no-padding{
+    padding:0px;
+}

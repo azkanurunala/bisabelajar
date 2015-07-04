@@ -104,33 +104,15 @@
         </div>
     </header>
 
-    <section class="bg-primary" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">We've got what you need!</h2>
-                    <hr class="light">
-                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                    <a href="#" class="btn btn-default btn-xl">Get Started!</a>
-                </div>
-            </div>
-        </div>
-    </section>
+   
 
-    <section id="services">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">At Your Service</h2>
-                    <hr class="primary">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i>
+    <section id="services" class="no-padding">
+       
+        <div class="">
+            <div class="yellow-bg row">
+                <div class="yellow-bg col-lg-3 col-md-6 text-center">
+                    <div class="yellow-bg service-box">
+                        
                         <h3>Sturdy Templates</h3>
                         <p class="text-muted">Our templates are updated regularly so they don't break.</p>
                     </div>
