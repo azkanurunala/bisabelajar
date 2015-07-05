@@ -484,6 +484,15 @@ body {
 }
 
 
+.flex-viewport{
+    width: 85% !important;
+    margin: 0 auto !important;
+}
+
+.flex-direction-nav a {
+    overflow: visible !important;
+    }
+
 
 @media(min-width:768px) {
 

@@ -12,3 +12,7 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
+
+    <script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+    <script type="text/javascript" src="js/jquery.flexslider.js"></script>
+    <script type="text/javascript" src="js/another.js"></script>
