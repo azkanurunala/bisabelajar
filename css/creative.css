@@ -479,8 +479,8 @@ body {
 }
 
 @font-face { 
-    font-family: Aller Light; 
-    src: url('fonts/Aller_Lt.ttf'); 
+    font-family: 'Aller Light'; 
+    src: url('/fonts/Aller/Aller_Lt.ttf'); 
 }
 
 
