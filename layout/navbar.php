@@ -10,7 +10,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top"><img src="img/logo_typo.png"></a>
+                <a class="navbar-brand page-scroll" href="index.php#page-top"><img src="img/logo_typo.png"></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,19 +18,19 @@
                 
                 <ul class="nav navbar-nav navbar-left">
                     <li>
-                        <a class="page-scroll" href="#class">Kelas</a>
+                        <a class="page-scroll" href="kelas.php">Kelas</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#tryout">Tryout</a>
+                        <a class="page-scroll" href="tryout.php">Tryout</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#info">Info</a>
+                        <a class="page-scroll" href="info.php">Info</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">Tentang</a>
+                        <a class="page-scroll" href="about.php">Tentang</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact-us">Hubungi Kami</a>
+                        <a class="page-scroll" href="hubungi.php">Hubungi Kami</a>
                     </li>
                 </ul>
 

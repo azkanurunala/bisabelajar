@@ -4,7 +4,7 @@
             <div class="text-left">
                 
                 <div class="col-lg-2 text-left">
-                     <img class="logo-large" src="/bisabelajar/img/footer_logo.png"/>
+                     <img class="logo-large" src="img/footer_logo.png"/>
                 </div>
                 <div class="top-margin-narrow col-lg-10 text-left">
                      <h4>Sitemap </h4>
@@ -12,25 +12,25 @@
                      <div class="row">
                      
                             <div class="col-lg-2">
-                                <a href="#" class="sitemap page-scroll"><h5>Kelas</h5></a>
-                                <a href="#" class="sitemap page-scroll"><h5>Tryout</h5></a>
+                                <a href="kelas.php" class="sitemap page-scroll"><h5>Kelas</h5></a>
+                                <a href="tryout.php" class="sitemap page-scroll"><h5>Tryout</h5></a>
                             </div>
 
 
                             <div class="col-lg-2">
-                                <a href="#" class="sitemap page-scroll"><h5>Tentang</h5></a>
-                                <a href="#" class="sitemap page-scroll"><h5>Hubungi Kami</h5></a>
+                                <a href="about.php" class="sitemap page-scroll"><h5>Tentang</h5></a>
+                                <a href="hubungi.php" class="sitemap page-scroll"><h5>Hubungi Kami</h5></a>
                             </div>
 
 
                             <div class="col-lg-2">
-                                <a href="#" class="sitemap page-scroll"><h5>Login</h5></a>
-                                <a href="#" class="sitemap page-scroll"><h5>Register</h5></a>
+                                <a href="#login" class="sitemap page-scroll"><h5>Login</h5></a>
+                                <a href="#register" class="sitemap page-scroll"><h5>Register</h5></a>
                             </div>
 
 
                             <div class="col-lg-2">
-                                <a href="#" class="sitemap page-scroll"><h5>Info</h5></a>
+                                <a href="info.php" class="sitemap page-scroll"><h5>Info</h5></a>
                                 <a href="#" class="sitemap page-scroll"><h5>Cari Kelas</h5></a>
                             </div>
 
