@@ -42,10 +42,10 @@
                         </div>
                     </li>
                     <li>
-                        <a class="margin-all-narrow login yellow-bg btn btn-primary btn-xl " href="#">Login</a>
+                        <a class="margin-all-narrow login yellow-bg btn btn-primary btn-xl " data-toggle="modal" data-target="#login" href="#">Login</a>
                     </li>
                     <li>
-                        <a class="margin-all-narrow register btn btn-primary btn-xl " href="#portfolio">Daftar</a>
+                        <a class="margin-all-narrow register btn btn-primary btn-xl " data-toggle="modal" data-target="#register" href="#">Daftar</a>
                     </li>
                   
                 </ul>
@@ -55,4 +55,6 @@
         <!-- /.container-fluid -->
     </nav>
 
+    <?php include ('layout/login.php'); ?>
+    <?php include ('layout/register.php'); ?>
    

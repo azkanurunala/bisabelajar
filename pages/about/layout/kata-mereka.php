@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row text-center">
             
-          <!--img class="icon" src="img/new_info.png"/-->
-          <h3 class="section-heading">Info Terbaru</h3>
+          <img class="icon" src="img/new_info.png"/>
+          <h2 class="section-heading">Info Terbaru</h2>
           <hr class="primary">
                 
         </div>

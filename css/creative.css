@@ -170,6 +170,11 @@ aside {
     .navbar-default.affix .nav>li>a:focus:hover {
         color: #f05f40;
     }
+
+    .tab-switch-default {
+        
+        background-color: rgba(236,240,241,1);
+    }
 }
 
 header {
@@ -625,6 +630,26 @@ body {
         -o-background-size: cover;
     }
 
+    .header-half{
+         padding: 0 !important;
+         position: relative;
+         min-height: 80 px !important;
+         background-width: 100% !important;
+         background-height:100% !important;
+         min-height: auto;
+        text-align: center;
+
+        color: #fff;
+        background-image: url(../img/half-header.png);
+        /*background-color: #199FB3;*/
+        background-color: #199FB3;
+        background-position: center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
+
     .quote{
          padding: 0 !important;
          position: relative;
@@ -652,6 +677,18 @@ body {
         margin-left: 0;
         margin-top: 24px;
         margin-bottom: 24px;
+    }
+
+    .logo-small{
+        max-width:60px !important;
+        max-height:auto !important;
+
+    }
+
+    .header-margin{
+        
+        margin-top: 60px;
+        margin-bottom: 10px;
     }
 
     .photo-quote{
@@ -721,6 +758,13 @@ body {
 
     }
 
+     .dark-bg-darker{
+        background-color: rgba(18,92,103,.85);
+        margin: 0 !important;
+        padding:10px;
+
+    }
+
     .transparent{
         border-style:none !important;
         background-color: transparent !important;
@@ -757,6 +801,48 @@ body {
     border-radius: 300px !important;
 }
 
+.left-rounded{
+      border-top-left-radius: 300px !important;
+      border-bottom-left-radius: 300px !important;
+      display: block;
+      width: 100%;
+      height: 34px;
+      padding: 6px 12px;
+      font-size: 14px;
+      line-height: 1.42857143;
+      color: #555;
+      background-color: #fff;
+      background-image: none;
+      border: 1px solid #ccc;
+      /* border-radius: 4px; */
+      -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+      box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+      -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+      -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+      transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.right-rounded{
+      border-top-right-radius: 300px !important;
+      border-bottom-right-radius: 300px !important;
+      display: block;
+      width: 100%;
+      height: 34px;
+      padding: 6px 12px;
+      font-size: 14px;
+      line-height: 1.42857143;
+      color: #555;
+      background-color: #fff;
+      background-image: none;
+      border: 1px solid #ccc;
+      /* border-radius: 4px; */
+      -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+      box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+      -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+      -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+      transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
 .yell-bg{
     background-color: #F6AB02 !important;  
     color: white !important;
@@ -765,8 +851,11 @@ body {
 }
 
 .yellow-outlined{
-    border-style: block 2px #F6AB02 !important;
+    border-style: block !important; 
+    border-width: 1px !important;
+    border-color: #F6AB02 !important;
     background-color: transparent !important;
+    box-shadow: none !important;
     color: #F6AB02;
 }
 
@@ -795,6 +884,13 @@ body {
 
 .red-bg{
     background-color: #e74c3c !important;  
+    color: white !important;
+    border-style: none !important;
+    border-radius: 5px !important;
+}
+
+.red-bg:hover{
+    background-color: #F39C11 !important;  
     color: white !important;
     border-style: none !important;
     border-radius: 5px !important;
@@ -890,4 +986,157 @@ a:hover{
 
 li{
     float: center !important;
+}
+
+.fade{
+    background-color: rgba(0,0,0,.5) !important;
+}
+
+.top-padding{
+    padding-top: 10% !important;
+}
+
+.font-green{
+    color: #135C65 !important;
+    text-transform: none !important;
+}
+
+.bold{
+    font-weight: bold !important;
+}
+
+.padding-medium{
+    padding-top: 0px !important;
+    padding-left: 40px !important;
+    padding-bottom: 0px !important;
+    padding-right: 40px !important;
+}
+
+.input-medium{
+    width: 75% !important;
+}
+
+
+.input-short{
+    width: 50% !important;
+}
+
+
+.input-long{
+    width: 100% !important;
+}
+
+.input-font-size{
+    font-size: 20px !important;
+}
+
+.bottom-margin{
+    margin-bottom: 5px !important
+}
+
+.bottom-margin-narrow{
+    margin-bottom: 20px !important
+}
+
+.right-margin{
+    margin-right: 40px !important
+}
+
+.bottom-margin{
+    margin-bottom: 40px !important
+}
+
+.right-margin-very-small{
+    margin-right: 5px !important
+}
+
+.margin-very-small{
+    margin: 5px !important
+}
+
+.padding-very-small{
+    padding: 5px !important;
+}
+
+.margin-small{
+    margin: 10px !important
+}
+
+.padding-small{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.right-border{
+    border-style: block !important;
+    border-color: grey !important;
+    border-right-width: 10px !important;
+}
+
+.socmed-login-btn{
+    width: 180px !important;
+}
+
+.fb-bg{
+    background-color:#20488C !important;
+}
+
+.fb-bg:hover{
+    background-color:#0C336A !important;
+}
+
+.twitter-bg{
+    background-color:#66C7ED !important;
+}
+
+.twitter-bg:hover{
+    background-color:#1BA3D7 !important;
+}
+
+.link-register{
+    color: #E84C3D !important;
+}
+
+
+.link-register:hover{
+    color: #F39C11 !important;
+    font-weight: bold !important;
+}
+
+.tab-selected{
+    background-color: #E8E8E8!important;
+    border-bottom-color: #f1c40f ;
+    border-bottom-width: 4px;
+    border-bottom-style:  solid !important;
+    margin: 0px !important;
+}
+
+.tab-option{
+    background-color: transparent !important;
+
+}
+
+.tab-option:hover, .tab-option:active{
+    background-color: #E8E8E8!important;
+    border-bottom-color: #f1c40f ;
+    border-bottom-width: 4px;
+    border-bottom-style:  solid !important;
+    margin: 0px !important;
+}
+
+a.link-tab{
+    background-color: transparent !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.grey-bg{
+    background-color: #f7f7f7 !important ;
+}
+
+.value-icon{
+    max-height: 120px !important;
+    width: auto;
 }
