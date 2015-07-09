@@ -191,9 +191,20 @@
     </div>
 
     <div class="row text-center">
-        <iframe allow-fullscreen="true" width="720" height="360" src="https://www.youtube.com/embed/syBv25_aozo" frameborder="0" allowfullscreen>
-            
-        </iframe>
+        <div class="col-lg-12 text-center">
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+            <a href="#"><img class="partner-logo col-lg-2" src="img/logo_typo.png"></a>
+        </div>
     </div>
    </div>
 </section>
