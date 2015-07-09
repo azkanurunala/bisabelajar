@@ -18,7 +18,7 @@
                         
                         
                         <p class="paragraph" >
-                          <img align="left" class="right-margin bottom-margin-narrow img-info-large" src="img/logo.png"/>
+                          <img class="right-margin bottom-margin-narrow img-responsive" src="img/logo.png"/>
                        
                           <?php include('contents/tentang/tentang-kami.txt');?>
                         </p>
