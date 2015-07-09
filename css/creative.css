@@ -1140,3 +1140,55 @@ a.link-tab{
     max-height: 120px !important;
     width: auto;
 }
+
+.tab-pane{
+    display: none !important;
+    visibility: hidden !important; 
+}
+
+.active{
+    display: block !important;
+    visibility: visible !important;
+}
+
+yellow{
+    color: #f1c40f !important;  
+}
+
+underline{
+    text-decoration: underline !important;
+
+}
+
+bold{
+    font-weight: bold !important;
+    
+}
+
+.bottom-border-narrow{
+    padding-bottom: 10px !important;
+    background-color:transparent !important;
+    border-bottom: 1px #ecf0f1 solid !important; 
+}
+.top-border-narrow{
+    padding-top: 10px !important;
+    background-color:transparent !important;
+    border-top: 1px #ecf0f1 solid !important; 
+}
+
+.fade-away:hover{
+    color: #bdc3c7 !important; 
+}
+
+.image-circle{
+    width:100px !important;
+    height:100px !important;
+    border-radius: 300px;
+    border-color: #f1c40f !important;
+    border-style: solid !important;
+    border-width: 2px !important;
+}
+
+hr.primary{
+  border-color : #f1c40f !important;
+}
