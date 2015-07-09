@@ -848,10 +848,14 @@ body {
     color: white !important;
     border-style: none !important;
     border-radius: 5px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .yellow-outlined{
-    border-style: block !important; 
+    border-style: solid !important; 
     border-width: 1px !important;
     border-color: #F6AB02 !important;
     background-color: transparent !important;
@@ -961,6 +965,10 @@ a:hover{
     margin-top: 25px !important;
 }
 
+.top-padding{
+    padding-top: 20px !important;
+}
+
 .left-margin{
     margin-left: 25px !important;
 }
@@ -994,6 +1002,10 @@ li{
 
 .top-padding{
     padding-top: 10% !important;
+}
+
+.top-padding-medium{
+    padding-top: 10px !important;
 }
 
 .font-green{
@@ -1042,9 +1054,7 @@ li{
     margin-right: 40px !important
 }
 
-.bottom-margin{
-    margin-bottom: 40px !important
-}
+
 
 .right-margin-very-small{
     margin-right: 5px !important
@@ -1139,4 +1149,109 @@ a.link-tab{
 .value-icon{
     max-height: 120px !important;
     width: auto;
+}
+
+.tab-pane{
+    display: none !important;
+    visibility: hidden !important; 
+}
+
+.active{
+    display: block !important;
+    visibility: visible !important;
+}
+
+yellow{
+    color: #f1c40f !important;  
+}
+
+underline{
+    text-decoration: underline !important;
+
+}
+
+bold{
+    font-weight: bold !important;
+    
+}
+
+.bottom-border-narrow{
+    padding-bottom: 10px !important;
+    background-color:transparent !important;
+    border-bottom: 1px #ecf0f1 solid !important; 
+}
+.top-border-narrow{
+    padding-top: 10px !important;
+    background-color:transparent !important;
+    border-top: 1px #ecf0f1 solid !important; 
+}
+
+.fade-away:hover{
+    color: #bdc3c7 !important; 
+}
+
+.image-circle{
+    width:100px !important;
+    height:100px !important;
+    border-radius: 300px;
+    border-color: #f1c40f !important;
+    border-style: solid !important;
+    border-width: 2px !important;
+}
+
+hr.primary{
+  border-color : #f1c40f !important;
+}
+
+.partner-logo{
+    height:29px !important;
+    width:auto !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px! important;
+
+}
+
+.no-margin{
+    margin: 5px !important;
+}
+
+.notch {
+    border-top: 10px solid #000;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    border-bottom: 0;
+    _border-right-color: pink;
+    _border-left-color: pink;
+    _filter: chroma(color=pink);
+}
+
+.callout {
+    position: relative;
+    margin: 18px 0;
+    padding: 18px 20px;
+    background-color: #eef4f9;
+    /* easy rounded corners for modern browsers */
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+}
+.callout .notch {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    margin: 0;
+    border-top: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #eef4f9;
+    padding: 0;
+    width: 0;
+    height: 0;
+    /* ie6 height fix */
+    font-size: 0;
+    line-height: 0;
+     /* ie6 transparent fix */
+    _border-right-color: pink;
+    _border-left-color: pink;
+    _filter: chroma(color=pink);
 }

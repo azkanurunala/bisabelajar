@@ -1,4 +1,5 @@
-<section id="tentangKami">
+<div id="tentangKami" class="tab-pane active">
+<section>
     <div class="container">
         <div class="row text-center">
 
@@ -9,20 +10,13 @@
 
         <div class="row">
             <div class="col-lg-12">
-                
-                    <p>
-                        <a class="new-info title" href="#">
-                        
-                        </a>
-                      
-                        
-                        
+
                         <p class="paragraph" >
                           <img class="right-margin bottom-margin-narrow img-responsive" src="img/logo.png"/>
                        
                           <?php include('contents/tentang/tentang-kami.txt');?>
                         </p>
-                    </p>               
+           
              
 
                     
@@ -65,6 +59,17 @@
         </div>
 
         </div>
-    </div> 
+ 
    
 </section>
+
+<section id="compro">
+  <div class="container">
+    <div class="row text-center">
+        <iframe allow-fullscreen="true" width="720" height="360" src="https://www.youtube.com/embed/syBv25_aozo" frameborder="0" allowfullscreen>
+            
+        </iframe>
+    </div>
+   </div>
+</section>
+</div>

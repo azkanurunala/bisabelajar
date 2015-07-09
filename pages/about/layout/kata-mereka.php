@@ -1,107 +1,71 @@
-<section id="recent-info">
+<div id="kataMereka" class="tab-pane">
+<section>
     <div class="container">
         <div class="row text-center">
-            
-          <img class="icon" src="img/new_info.png"/>
-          <h2 class="section-heading">Info Terbaru</h2>
+
+          <h4 class="section-heading">Kata Mereka tentang BisaBelajar</h4>
           <hr class="primary">
                 
         </div>
 
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="col-lg-6">
-                    <p>
-                        <a class="new-info title" href="#">
-                        <h4 class="new-info title"> <?php include ('contents/judul-1.txt'); ?></h4>
-                        </a>
-                        <a href="#">
-                        <img class="img-info-large" src="contents/gambar-1.png"/>
-                        </a>
-                        <h5 class="new-info author "><?php include ('contents/penulis-1.txt'); ?></h5>
-                        
-                       
-                        <p class="new-info paragraph" >
-                          <?php include('contents/isi-1.txt');?>
-
-                          <a class="link-info top-margin right-margin  text-right " href="#" >  BACA LEBIH LANJUT <span class="top-padding-narrow glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
-                        </p>
-                    </p>               
-                </div>
-
-                <div class="top-margin  col-lg-6">
-                    
-                    <div class="bottom-border row">
-                        <div class="col-lg-5">
-                          
-                            <a href="#">
-                            <img class="img-info-large" src="contents/gambar-2.png"/>
-                            </a>
-                          
-                        </div>
-                        <div class="no-padding col-lg-7">
-                            <a href="#">
-                            <h4 class=" no-padding new-info title"> <?php include ('contents/judul-2.txt'); ?></h4>
-                            </a>
-                            <h5 class=" new-info author "><?php include ('contents/penulis-2.txt'); ?></h5>
-                            <p class="new-info paragraph" >
-                               <?php include('contents/isi-2.txt');?>
-                                <a class="link-info top-margin right-margin  text-right " href="#" >  BACA LEBIH LANJUT <span class="top-padding-narrow glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
-                            </p>
-                        </div>
-                     </div>
-
-                     <div class="bottom-border row">
-                        <div class="col-lg-5">
-                          
-                            <a href="#">
-                            <img class="img-info-large" src="contents/gambar-3.png"/>
-                            </a>
-                          
-                        </div>
-                        <div class="no-padding col-lg-7">
-                            <a href="#">
-                            <h4 class=" no-padding new-info title"> <?php include ('contents/judul-3.txt'); ?></h4>
-                            </a>
-                            <h5 class=" new-info author "><?php include ('contents/penulis-3.txt'); ?></h5>
-                            <p class="new-info paragraph" >
-                               <?php include('contents/isi-3.txt');?>
-                                <a class="link-info top-margin right-margin  text-right " href="#" >  BACA LEBIH LANJUT <span class="top-padding-narrow glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
-                            </p>
-                        </div>
-                     </div>
-
-                     <div class="bottom-border row">
-                        <div class="col-lg-5">
-                          
-                            <a href="#">
-                            <img class="img-info-large" src="contents/gambar-4.png"/>
-                            </a>
-                          
-                        </div>
-                        <div class="no-padding col-lg-7">
-                            <a href="#">
-                            <h4 class=" no-padding new-info title"> <?php include ('contents/judul-4.txt'); ?></h4>
-                            </a>
-                            <h5 class=" new-info author "><?php include ('contents/penulis-4.txt'); ?></h5>
-                            <p class="new-info paragraph" >
-                               <?php include('contents/isi-4.txt');?>
-                                <a class="link-info top-margin right-margin  text-right " href="#" > BACA LEBIH LANJUT <span class="top-padding-narrow glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
-                            </p>
-                        </div>
-                     </div>
-
-                     <div class="row text-right">
-                               <a class="link-info-full top-margin right-margin  text-right " href="#" > LIHAT SELENGKAPNYA <span class="top-padding-narrow glyphicon glyphicon-chevron-right" aria-hidden="true"></span></h4> </a>
-                     </div>
-
-                </div>
-                    
-            </div>
-
-        </div>
     </div> 
-       
-
    
 </section>
+
+
+
+<section id="compro" class="grey-bg">
+  <div class="container">
+    <div class="row text-center">
+        <iframe allow-fullscreen="true" width="800" height="400" src="https://www.youtube.com/embed/syBv25_aozo" frameborder="0" allowfullscreen>
+            
+        </iframe>
+    </div>
+   </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <div class="col-lg-2">
+                    <img class="image-circle" src="photos/gandra.jpg">
+                </div>
+                <div class="yell-bg col-lg-10 top-padding-medium">
+                    <p class="text-justify no-margin" >
+                        <?php include('contents/tentang/kata-mereka-1.txt');?>
+                    </p>
+                     <p class=" text-right" >
+                        <i><?php include('contents/tentang/km-person-1.txt');?></i>
+                    </p>
+                </div>
+            </div>
+                
+        </div>
+
+        <div class="row top-margin text-center">
+            <div class="col-lg-12">
+
+                <div class="green-bg col-lg-10 top-padding-medium">
+                   
+                    <p class="text-justify no-margin" >
+                        <?php include('contents/tentang/kata-mereka-2.txt');?>
+                    </p>
+                     <p class=" text-right" >
+                        <i><?php include('contents/tentang/km-person-2.txt');?></i>
+                    </p>
+                </div>
+                 <div class="col-lg-2">
+                    <img class="image-circle" src="photos/gandra.jpg">
+                </div>
+
+            </div>
+                
+        </div>
+
+
+    </div> 
+   
+</section>
+
+</div>
