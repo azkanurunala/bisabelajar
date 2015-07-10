@@ -5,7 +5,7 @@
 
 <body id="page-top">
     <?php include ('layout/navbar.php') ?>
-    <?php include ('layout/headerHalf.php') ?>
+    <?php include ('pages/info/layout/headerHalf.php') ?>
     <!--?php include ('pages/about/layout/tabSwitch.php') ?-->
     <!--?php include ('layout/header.php') ?-->
     <!--div class="tab tab-content">

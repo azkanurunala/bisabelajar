@@ -4138,8 +4138,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-fixed-top,
 .navbar-fixed-bottom {
   position: fixed;
+
   right: 0;
   left: 0;
+
   z-index: 1030;
 }
 @media (min-width: 768px) {
@@ -4207,7 +4209,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-nav {
-  margin: ;
+  vertical-align: center !important;
 }
 .navbar-nav > li > a {
   padding-top: 10px;

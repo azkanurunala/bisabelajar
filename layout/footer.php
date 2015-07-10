@@ -4,7 +4,7 @@
             <div class="text-left">
                 
                 <div class="col-lg-2 text-left">
-                     <img class="logo-large" src="img/footer_logo.png"/>
+                     <img class="logo-large img-responsive" src="img/footer_logo.png"/>
                 </div>
                 <div class="top-margin-narrow col-lg-10 text-left">
                      <h4>Sitemap </h4>
