@@ -9,7 +9,7 @@
                 BisaBelajar adalah teman belajar terbaikmu!
 
                 </p>
-                <a href="#login" class="yellow-bg btn btn-primary btn-xl ">Mulai Belajar</a>
+                <a href="#login" data-toggle="modal" data-target="#login" class="yellow-bg btn btn-primary btn-xl ">Mulai Belajar</a>
             </div>
         </div>
     </header>

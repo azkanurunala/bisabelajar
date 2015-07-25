@@ -4,10 +4,10 @@
             <div class="text-left">
                 
                 <div class="col-lg-1 text-left">
-                     <img class="header-margin logo-small img-responsive" src="img/about.png"/>
+                     <img class="header-margin logo-small img-responsive" src="img/call_logo.png"/>
                 </div>
                 <div class="header-margin col-lg-11 text-left">
-                     <h3>Hubungi Kami </h3>
+                     <h3 class="">Hubungi Kami </h3>
                 </div>
                 
             </div>

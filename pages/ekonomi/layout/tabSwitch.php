@@ -42,11 +42,24 @@
             <iframe allow-fullscreen="true" width="760" height="400" src="https://www.youtube.com/embed/syBv25_aozo" frameborder="0" allowfullscreen>
             </iframe>
         </div>
+
         <div id="latihan" class="tab-pane">
-        Latihan
+            <div class="row">
+                <yellow><h4 class="bold">Soal Nomor 1</h4></yellow>
+                <p  class="font-green text-left margin-small">
+                Isi soal nomer 1 Isi soal nomer 1 Isi soal nomer 1 Isi soal nomer 1
+                Isi soal nomer 1 Isi soal nomer 1 Isi soal nomer 1 Isi soal nomer 1
+                </p>
+            </div>
+
         </div>
+        
         <div id="ringkasan" class="tab-pane">
+        
+
         Ringkasan
+        
+
         </div>
     </div>
 

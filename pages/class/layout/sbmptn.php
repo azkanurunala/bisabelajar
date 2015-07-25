@@ -1,4 +1,6 @@
-<div id="sbmptn" class="tab-pane">
+<div id="selectSBMPTN" class="tab-pane"> 
+ <?php include ('pages/class/layout/tabSwitch.php') ?>
+<div >
 <section>
     <div class="container">
         <div class="row text-center">
@@ -44,4 +46,5 @@
     </div> 
    
 </section>
+</div>
 </div>

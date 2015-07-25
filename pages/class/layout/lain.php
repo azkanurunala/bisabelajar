@@ -1,4 +1,6 @@
-<div id="lain" class="tab-pane">
+<div id="selectLain" class="tab-pane"> 
+ <?php include ('pages/class/layout/tabSwitch.php') ?>
+<div >
 <section>
     <div class="container">
         <div class="row text-center">
@@ -44,5 +46,6 @@
     </div> 
    
 </section>
+</div>
 </div>
 

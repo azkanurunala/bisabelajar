@@ -37,8 +37,8 @@
                         <a href="#"><i class="fade-away fa fa-twitter twitter social-icon"></i></a>
                         <h4 class="top-border-narrow bottom-border-narrow font-green bold">Gandra Braino   <yellow>CFO</yellow></h4>
                         <p>
-                        An <bold>idealist</bold>, passionate in social activity, currently enrolled as a
-                        student of Islamic Business, Universitas Indonesia
+                        A <bold> Revolutionarist </bold>, an accounting graduate of Universitas Indonesia with 
+                        experience as an auditor and financial consultant. 
                         </p>
                 
                     </div>
@@ -53,8 +53,9 @@
                         <a href="#"><i class="fade-away fa fa-twitter twitter social-icon"></i></a>
                         <h4 class="top-border-narrow bottom-border-narrow font-green bold">Azka Nurun Ala   <yellow>CTO</yellow></h4>
                         <p>
-                        An <bold>idealist</bold>, passionate in social activity, currently enrolled as a
-                        student of Islamic Business, Universitas Indonesia
+                        An <bold>Innovator</bold>,  
+                        a quick learner who loves novelty and challenges, also a student of 
+                        Faculty of Computer Science, Universitas Indonesia.
                         </p>
                 
                     </div>
@@ -77,7 +78,7 @@
    
 </section>
 
-<section id="kontributor" class="grey-bg">
+<section id="kontributor" class="class-bg-1 ">
     <div class="container">
 
         <div class="row text-center">

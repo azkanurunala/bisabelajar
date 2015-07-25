@@ -3,7 +3,7 @@
 <?php include ('layout/head.php') ?>
 
 
-<body id="page-top">
+<body id="about">
     <?php include ('layout/navbar.php') ?>
     <?php include ('layout/headerHalf.php') ?>
     <?php include ('pages/about/layout/tabSwitch.php') ?>

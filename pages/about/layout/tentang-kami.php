@@ -63,7 +63,7 @@
    
 </section>
 
-<section id="compro">
+<section id="compro" class="black-bg class-bg">
   <div class="container">
     <div class="row text-center">
         <iframe allow-fullscreen="true" width="720" height="360" src="https://www.youtube.com/embed/syBv25_aozo" frameborder="0" allowfullscreen>

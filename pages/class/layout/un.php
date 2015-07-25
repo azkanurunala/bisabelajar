@@ -1,4 +1,6 @@
-<div id="un" class="tab-pane">
+<div id="selectUN" class="tab-pane"> 
+ <?php include ('pages/class/layout/tabSwitch.php') ?>
+<div >
 <section>
     <div class="container">
         <div class="row text-center">
@@ -36,7 +38,7 @@
                 <div class="col-lg-2">
                     <a  class="link-tab" data-toggle="tab" href="#sbmptn">
                         <img class="subject-icon" src="img/class/pkn.png">
-                        <h4 class="icon-link bold font-green">Kebudayaan</h4>
+                        <h4 class="icon-link bold font-green">oKebudayaan</h4>
                     </a>
                 </div>
             </div>
@@ -44,4 +46,5 @@
     </div> 
    
 </section>
+</div>
 </div>

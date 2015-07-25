@@ -1,4 +1,7 @@
-<div id="sma" class="tab-pane">
+<div id="selectSMA" class="tab-pane"> 
+
+ <?php include ('pages/class/layout/tabSwitch.php') ?>
+<div >
 <section class="narrow-section">
     <div class="container">
         <div class="row text-center">
@@ -84,4 +87,5 @@
     </div> 
    
 </section>
+</div>
 </div>

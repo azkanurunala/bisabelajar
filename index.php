@@ -3,7 +3,7 @@
 <?php include ('layout/head.php') ?>
 
 
-<body id="page-top">
+<body id="home">
     <?php include ('layout/navbar.php') ?>
     <?php include ('layout/header.php') ?>
     <?php include ('layout/newClasses.php') ?>

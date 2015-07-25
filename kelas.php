@@ -3,11 +3,11 @@
 <?php include ('layout/head.php') ?>
 
 
-<body id="page-top">
+<body id="class">
     <?php include ('layout/navbar.php') ?>
     <?php include ('pages/class/layout/headerHalf.php') ?>
-    <?php include ('pages/class/layout/tabSwitch.php') ?>
-    <section class="narrow-section">
+    <!--?php include ('pages/class/layout/tabSwitch.php') ?-->
+    <section class="no-padding">
     <div class="tab tab-content">
 		<?php include('pages/class/layout/sd.php'); ?>  
 		<?php include('pages/class/layout/smp.php'); ?>

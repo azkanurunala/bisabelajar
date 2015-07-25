@@ -46,3 +46,20 @@
     new WOW().init();
 
 })(jQuery); // End of use strict
+
+$(function(){
+
+    $("#class a:contains('Kelas')").parent().addClass('active');
+    $("#tryout a:contains('Tryout')").parent().addClass('active');
+    $("#info a:contains('Info')").parent().addClass('active');
+    $("#about a:contains('Tentang')").parent().addClass('active');
+    $("#call a:contains('Hubungi Kami')").parent().addClass('active');
+
+    $("#selectSD a:contains('SD')").parent().addClass('tab-selected');
+    $("#selectSMP a:contains('SMP')").parent().addClass('tab-selected');
+    $("#selectSMA a:contains('SMA')").parent().addClass('tab-selected');
+    $("#selectUN a:contains('UN')").parent().addClass('tab-selected');
+    $("#selectSBMPTN a:contains('SBMPTN')").parent().addClass('tab-selected');
+    $("#selectLain a:contains('Lainnya')").parent().addClass('tab-selected');
+
+});

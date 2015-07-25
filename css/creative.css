@@ -116,7 +116,7 @@ aside {
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #f05f40!important;
+    color: #f39c12!important;
     background-color: transparent;
 }
 
@@ -197,6 +197,22 @@ header {
     -o-background-size: cover;
 }
 
+.front-bg{
+
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    background-image: url('../img/class/bg_Kelas.png');
+    /*background-color: #199FB3;*/
+    /*background-color: #2090A1;*/
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
 
 header .header-content {
@@ -508,8 +524,12 @@ body {
 @media(min-width:768px) {
 
     .yellow-bg{
-        background-color:#FAA61E;
+        background-color:#FAA61E ;
     }
+    .red-bg{
+        background-color:#d35400;
+    }
+    
 
     .no-padding{
         padding:0px;
@@ -532,13 +552,50 @@ body {
         
     }
 
+    .class-bg{
+        background-image: url('../img/class/bg_Kelas.png');
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        text-align: center;
+        background-position: center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;      
+    }
+
+    .class-bg-1{
+        background-image: url('../img/class/bg_Kelas-1.png');
+        /*background-color: #E5FDFF ;*/
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        text-align: center;
+        background-position: center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;      
+    }
+
     img.icon{
         margin:20px;
     }
 
     .bottom-border{
         background-color: #ecf0f1;
-        border-bottom: 1pt solid #bdc3c7;
+        border-bottom: 5pt solid #bdc3c7;
+    }
+
+    .yellow-bottom-border{
+        
+        border-bottom: 1pt solid #e67e22;
+    }
+
+    .black-bottom-border{
+        
+        border-bottom: 2pt solid #414242;
     }
 
     .icon-medium{
@@ -688,8 +745,8 @@ body {
     }
 
     .logo-small{
-        max-width:60px !important;
-        max-height:auto !important;
+        max-width:auto !important;
+        max-height:60px !important;
 
     }
 
@@ -783,6 +840,10 @@ body {
 
     }
 
+    .black-bg{
+        background-color: black;
+    }
+
     .transparent{
         border-style:none !important;
         background-color: transparent !important;
@@ -805,6 +866,7 @@ body {
 
 .title{
     color:#135C65 !important;
+    font-weight: bold !important;
    
 }
 
@@ -982,6 +1044,10 @@ a:hover{
     margin-left: 25px !important;
 }
 
+.left-margin-medium{
+    margin-left: 55px !important;
+}
+
 .left-margin-large{
     margin-left: 100px !important;
 }
@@ -1103,6 +1169,19 @@ li{
     border-color: grey !important;
     border-right-width: 10px !important;
 }
+
+.right-border-small{
+    border-right-style: solid !important;
+    border-right-color: #ecf0f1 !important;
+    border-right-width: 2px !important;
+}
+
+.all-border{
+    border-style: solid !important;
+    border-color: #ecf0f1 !important;
+    border-width: 2px !important;
+}
+
 
 .socmed-login-btn{
     width: 180px !important;
@@ -1371,10 +1450,17 @@ hr.primary{
 }
 
 .img-video-small{
+    opacity: 0.5 !important;
     margin-top: 20px !important;
+    background-color: black !important;
     width: 240px !important;
-    height: auto !important;
+    height: 144px !important;
 }
+
+.img-video-small:hover{
+    opacity:1.0 !important;
+}
+
 
 
 .paragraph{
@@ -1421,6 +1507,10 @@ a:hover{
     margin-left: 25px !important;
 }
 
+.left-margin-small{
+    margin-left: 20px !important;
+}
+
 .left-margin-large{
     margin-left: 100px !important;
 }
@@ -1433,7 +1523,7 @@ a:hover{
 .bottom-border{
     margin-bottom: 10px !important;
     background-color:transparent !important;
-    border-bottom: 1px #ecf0f1 solid !important; 
+    border-bottom: 2px #ecf0f1 solid !important; 
 }
 
 .top-padding-narrow{
@@ -1502,7 +1592,9 @@ li{
     margin-right: 40px !important
 }
 
-
+.right-margin-narrow{
+    margin-right: 20px !important
+}
 
 .right-margin-very-small{
     margin-right: 5px !important

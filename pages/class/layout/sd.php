@@ -1,4 +1,6 @@
-<div id="sd" class="tab-pane active">
+ <div id="selectSD" class="no-padding tab-pane in active"> 
+ <?php include ('pages/class/layout/tabSwitch.php') ?>
+<div >
 <section>
     <div class="container">
         <div class="row text-center">
@@ -45,4 +47,4 @@
    
 </section>
 </div>
-
+</div>
