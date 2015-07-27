@@ -7,7 +7,7 @@
                      <img class="logo-large img-responsive" src="img/footer_logo.png"/>
                 </div>
                 <div class="top-margin-narrow col-lg-10 text-left">
-                     <h4>Sitemap </h4>
+                     <!--h4>Sitemap </h4-->
                      
                      <div class="row">
                      

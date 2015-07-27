@@ -62,4 +62,8 @@ $(function(){
     $("#selectSBMPTN a:contains('SBMPTN')").parent().addClass('tab-selected');
     $("#selectLain a:contains('Lainnya')").parent().addClass('tab-selected');
 
+    $("#tentangKami a:contains('Tentang')").parent().addClass('tab-selected');
+    $("#timKami a:contains('Tim Kami')").parent().addClass('tab-selected');
+    $("#kataMereka a:contains('Kata Mereka')").parent().addClass('tab-selected');
+
 });

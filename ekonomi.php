@@ -3,16 +3,16 @@
 <?php include ('layout/head.php') ?>
 
 
-<body id="page-top">
+<body id="page-top ">
     <?php include ('layout/navbar.php') ?>
     <?php include ('pages/ekonomi/layout/headerHalf.php') ?>
 
-<section>
+<section class="video-bg class-bg">
 <div class="container">
-	<div class="col-lg-4">
+	<div class="col-lg-4 ">
 		    <?php include ('pages/ekonomi/layout/subjectList.php') ?>
 	</div>
-	<div class="col-lg-8">
+	<div class="col-lg-8 ">
 		    <?php include ('pages/ekonomi/layout/tabSwitch.php') ?>
 	</div>
 </div>

@@ -1,6 +1,6 @@
 <div class="row">
 	<a href="kelas.php">
-		<h4 class="font-green ">
+		<h4 class="white-text ">
 		<i class="fa fa-chevron-circle-left">
 		</i>
 			 Kembali ke <yellow>SMA</yellow>
@@ -9,10 +9,10 @@
 	</a>
 </div>
 <div class="row">
-	<ul class="list-title lists top-padding-narrow bottom-padding-narrow  no-top-margin no-bottom-margin right-margin grey-bg top-radius lists">
+	<ul class="list-title lists top-padding-narrow bottom-padding-narrow  no-top-margin  no-bottom-margin right-margin top-radius lists">
 		<li class=""><a href="#" class="white-text"><h4><i class="fa fa-th-list"></i> Daftar Materi</a></h4></li>
 	</ul>
-	<ul class="lists padding-all no-top-margin right-margin grey-bg bottom-radius lists">
+	<ul class="grey-bg-2 lists padding-all no-top-margin right-margin  bottom-radius lists">
 		
 		<li class="bottom-border "><a href="#" class="font-green bold"><h5><i class="fa fa-play-circle-o"></i> Uang dan Perbankan</a></h5></li>
 		<li class="bottom-border "><a href="#" class="font-green bold"><h5><i class="fa fa-play-circle-o"></i> Kebutuhan dan Kelangkaan</a></h5></li>

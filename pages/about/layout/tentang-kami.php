@@ -1,5 +1,7 @@
 <div id="tentangKami" class="tab-pane active">
+<?php include ('pages/about/layout/tabSwitch.php') ?>
 <section>
+
     <div class="container">
         <div class="row text-center">
 

@@ -1,4 +1,4 @@
-<section id="contact" class="no-top-padding no-right-padding no-bottom-padding no-bottom-margin black-bg front-bg ">
+<section id="contact" class="no-top-padding no-right-padding no-bottom-padding no-bottom-margin black-bg class-bg ">
         <div class="no-top-margin no-right-margin no-bottom-margin no-left-margin container">
 
                 <div class="no-bottom-margin row  ">
@@ -12,12 +12,12 @@
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <bold><input type="text" class="white-text yellow-outlined rounded form-control" required="required" placeholder="Nama"></bold>
+                                        <input type="text" class="white-text yellow-outlined rounded form-control" required="required" placeholder="Nama">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <bold><input type="text" class="white-text yellow-outlined rounded form-control" required="required" placeholder="Email"></bold>
+                                        <input type="text" class="white-text yellow-outlined rounded form-control" required="required" placeholder="Email">
                                     </div>
                                 </div>
                             </div>
