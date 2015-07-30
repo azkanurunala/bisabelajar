@@ -5,14 +5,14 @@
             <div class="container white-text">
 
                 <div class="row green-bottom-border no-padding   ">
-                    <div class=" col-lg-2  col-md-2 text-center">
+                    <div class=" col-lg-2  col-md-2 text-center wow bounceInLeft">
                         <div class=" no-padding-top padding-narrow service-box">
 
                             <bold><h3>Kelas Terbaru</h3></bold>
                             <img class="icon-medium" src="img/new.png"/>
                         </div>
                     </div>
-                    <div class="col-lg-10 tes text-center ">
+                    <div class="col-lg-10 tes text-center wow bounceInRight">
                         <!-- Place somewhere in the <body> of your page -->
                         <div class="no-padding no-margin flexslider ">
                           <ul class="slides">
@@ -81,14 +81,14 @@
                 </div>
 
                 <div class="row no-padding">
-                    <div class=" col-lg-2  col-md-2 text-center">
+                    <div class=" col-lg-2  col-md-2 text-center wow bounceInLeft">
                         <div class=" no-padding-top padding-narrow service-box">
 
                             <bold><h3>Kelas Favorit</h3></bold>
                             <img class="icon-medium" src="img/fav.png"/>
                         </div>
                     </div>
-                      <div class="col-lg-10 tes text-center">
+                      <div class="col-lg-10 tes text-center wow bounceInRight">
                         <!-- Place somewhere in the <body> of your page -->
                         <div class="no-padding no-margin flexslider ">
                           <ul class="slides">

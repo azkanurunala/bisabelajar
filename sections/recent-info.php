@@ -1,6 +1,6 @@
 <section id="recent-info">
-    <div class="container">
-        <div class="row text-center">
+    <div class="container ">
+        <div class="row text-center  wow bounceIn">
             
           <!--img class="icon" src="img/new_info.png"/-->
           <h3 class="section-heading"><i class="fa fa-newspaper-o"></i> Info Terbaru</h3>
@@ -10,7 +10,7 @@
 
         <div class="row">
             <div class="col-lg-12">
-                <div class="col-lg-6">
+                <div class="col-lg-6   wow bounceInLeft">
                     <div class="row">
                         <p>
                             <a class="new-info title" href="news-content.php">
@@ -32,7 +32,7 @@
  
                 </div>
 
-                <div class="top-margin  col-lg-6">
+                <div class="top-margin  col-lg-6 wow bounceInRight">
                     
                     <div class="bottom-border row">
                         <div class="col-lg-5">
@@ -95,7 +95,7 @@
                      </div>
 
                      <div class="row text-right">
-                               <a class="link-info-full top-margin right-margin  text-right " href="info.php" > LIHAT SELENGKAPNYA <span class="top-padding-narrow glyphicon glyphicon-chevron-right" aria-hidden="true"></span></h4> </a>
+                               <a class="link-info-full top-margin right-margin  text-right " href="info.php" ><h4> LIHAT SELENGKAPNYA <span class="top-padding-narrow glyphicon glyphicon-chevron-right" aria-hidden="true"></span></h4> </a>
                      </div>
 
                 </div>

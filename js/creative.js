@@ -66,4 +66,50 @@ $(function(){
     $("#timKami a:contains('Tim Kami')").parent().addClass('tab-selected');
     $("#kataMereka a:contains('Kata Mereka')").parent().addClass('tab-selected');
 
+    $("#video a:contains('Video')").parent().addClass('tab-selected');
+    $("#latihan a:contains('Latihan')").parent().addClass('tab-selected');
+    $("#ringkasan a:contains('Ringkasan')").parent().addClass('tab-selected');
+
+
+
 });
+
+function select1(){
+    document.getElementById("option-1").style.backgroundColor = "#F6AB02";
+    document.getElementById("option-2").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-3").style.backgroundColor = "#e74c3c";    
+    document.getElementById("option-4").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-5").style.backgroundColor = "#e74c3c";
+}
+
+function select2(){
+    document.getElementById("option-1").style.backgroundColor = "#e74c3c"; 
+    document.getElementById("option-2").style.backgroundColor = "#F6AB02";
+    document.getElementById("option-3").style.backgroundColor = "#e74c3c";    
+    document.getElementById("option-4").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-5").style.backgroundColor = "#e74c3c";
+}
+
+function select3(){
+    document.getElementById("option-1").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-2").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-3").style.backgroundColor = "#F6AB02";    
+    document.getElementById("option-4").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-5").style.backgroundColor = "#e74c3c";
+}
+
+function select4(){
+    document.getElementById("option-1").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-2").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-3").style.backgroundColor = "#e74c3c";    
+    document.getElementById("option-4").style.backgroundColor = "#F6AB02";
+    document.getElementById("option-5").style.backgroundColor = "#e74c3c";
+}
+
+function select5(){
+    document.getElementById("option-1").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-2").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-3").style.backgroundColor = "#e74c3c";    
+    document.getElementById("option-4").style.backgroundColor = "#e74c3c";
+    document.getElementById("option-5").style.backgroundColor = "#F6AB02";
+}

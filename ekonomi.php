@@ -5,16 +5,17 @@
 
 <body id="page-top ">
     <?php include ('layout/navbar.php') ?>
-    <?php include ('pages/ekonomi/layout/headerHalf.php') ?>
+    <?php include ('pages/ekonomi/layout/headerHalf.php'); ?>
 
 <section class="video-bg class-bg">
 <div class="container">
 	<div class="col-lg-4 ">
-		    <?php include ('pages/ekonomi/layout/subjectList.php') ?>
+		    <?php include ('pages/ekonomi/layout/subjectList.php'); ?>
 	</div>
 	<div class="col-lg-8 ">
-		    <?php include ('pages/ekonomi/layout/tabSwitch.php') ?>
+		    <?php include ('pages/ekonomi/layout/content.php'); ?>
 	</div>
+	<?php include ('pages/ekonomi/layout/submitted.php'); ?>
 </div>
 </section>
     <?php include('layout/quote.php'); ?>

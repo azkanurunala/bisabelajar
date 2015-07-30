@@ -21,7 +21,7 @@
 
     <!-- Plugin CSS -->
     <link rel="stylesheet" href="css/animate.min.css" type="text/css">
-
+    <link rel="stylesheet" href="css/animate.css" type="text/css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/creative.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="css/flexslider.css">

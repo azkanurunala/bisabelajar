@@ -2055,6 +2055,10 @@ hr.primary{
     padding-bottom: 30px !important;
 }
 
+.top-padding-narrow{
+    padding-top: 10px !important;
+}
+
 .bottom-padding-narrow{
     padding-bottom: 10px !important;
 }
@@ -2062,6 +2066,8 @@ hr.primary{
 .left-padding{
     padding-left: 30px !important;
 }
+
+
 
 img.level-icon{
     width:40px !important;
@@ -2102,15 +2108,19 @@ li.slider-content{
 }
 
 .top-radius{
-    border-top-right-radius: 10px !important;
-    border-top-left-radius: 10px !important; 
+    border-top-right-radius: 5px !important;
+    border-top-left-radius: 5px !important; 
 }
 
 .bottom-radius{
-    border-bottom-right-radius: 10px !important;
-    border-bottom-left-radius: 10px !important; 
+    border-bottom-right-radius: 5px !important;
+    border-bottom-left-radius: 5px !important; 
 }
 
+.bottom-radius-narrow{
+    border-bottom-right-radius: 2px !important;
+    border-bottom-left-radius: 2px !important; 
+}
 .top-radius-narrow{
     border-top-right-radius: 5px !important;
     border-top-left-radius: 5px !important; 
@@ -2181,4 +2191,12 @@ h5{
 .latihan{
     left:15px;
     right:100px;
+}
+.790-px{
+    width: 740px !important;
+}
+
+.option:hover{
+    background-color: #f39c12 !important;
+    border-radius: 2px !important;
 }
