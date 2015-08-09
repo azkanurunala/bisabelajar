@@ -1,4 +1,4 @@
-      <section id="footer" class="quote white-text">
+      <!--section id="footer" class="quote white-text">
  
         <div class=" no-padding container">
             <div class="text-left">
@@ -30,4 +30,4 @@
             </div>
         </div>
 
-    </section>
+    </section-->

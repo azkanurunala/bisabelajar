@@ -1,5 +1,7 @@
 <div id="tentangKami" class="tab-pane active">
+<?php include ('pages/about/layout/tabSwitch.php') ?>
 <section>
+
     <div class="container">
         <div class="row text-center">
 
@@ -12,7 +14,7 @@
             <div class="col-lg-12">
 
                         <p class="paragraph" >
-                          <img class="right-margin bottom-margin-narrow img-responsive" src="img/logo.png"/>
+                          <img align="left" class="right-margin bottom-margin-narrow img-responsive" src="img/logo.png"/>
                        
                           <?php include('contents/tentang/tentang-kami.txt');?>
                         </p>
@@ -63,7 +65,7 @@
    
 </section>
 
-<section id="compro">
+<section id="compro" class="black-bg class-bg">
   <div class="container">
     <div class="row text-center">
         <iframe allow-fullscreen="true" width="720" height="360" src="https://www.youtube.com/embed/syBv25_aozo" frameborder="0" allowfullscreen>
