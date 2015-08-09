@@ -44,7 +44,7 @@
         </div>
 
         <div class="row top-margin text-center">
-            <div class="col-lg-12">
+            <div class="col-lg-11">
 
                 <div class="green-bg col-lg-10 top-padding-medium">
                    
